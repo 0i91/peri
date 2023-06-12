@@ -17,5 +17,3 @@
 ⚡ Fun fact: When I'm not coding or exploring the blockchain realm, you can find me [mention a hobby or interest unrelated to tech].
 
 📄 Check out my repositories below to explore my open-source projects and contributions. Don't forget to leave a ⭐️ if you find something useful or interesting!
-
-![<İkon ismi>](https://img.shields.io/badge/<FB>-<Buton rengi>?style=for-the-badge&logo=<İkon ismş>&logoColor=<Logo rengi>)
